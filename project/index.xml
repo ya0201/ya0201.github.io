@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>maiWebuSaito</title>
-    <link>https://ya0201.github.io/</link>
-    <description>Recent content on maiWebuSaito</description>
+    <title>Projects on maiWebuSaito</title>
+    <link>https://ya0201.github.io/project/</link>
+    <description>Recent content in Projects on maiWebuSaito</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
     
-	<atom:link href="https://ya0201.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ya0201.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>

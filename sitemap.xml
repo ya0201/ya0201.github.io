@@ -3,7 +3,26 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://ya0201.github.io/project/project1/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ya0201.github.io/tags/c&#43;&#43;/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://ya0201.github.io/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ya0201.github.io/project/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ya0201.github.io/tags/sdl/</loc>
     <priority>0</priority>
   </url>
   
